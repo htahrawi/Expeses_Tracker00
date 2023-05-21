@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.select {
+    padding: 10px 140px;
+    background-color: #EEEEEE;
+    border: none;
+    border-radius: 5px;
+    color: #907575;
+    font-size: 15px;
+    text-align: start;
+    border: none;
+    
+}
+
+.select option {
+    padding: 0px;
+    margin: 0px;
+    font-size: 15px;
+}
